@@ -10,10 +10,12 @@ Instances includes all instances used in our paper. Our experiments were perform
 To analyze the impact of unloading capacity C, our experiments are conducted on instances with 50 customers. We set the unit unloading time to 2 for type C2 instances and 1 for types R2 and RC2 instances. We vary the value of C from 1 to 3.
 
 Results
+
 Results includes all results from two solution methods, i.e., CPLEX for solving arc flow model directly and a branch-and-price-cut(BPC) exact method. Table "CPLEX" represents the results obtained by solving arc flow model directly. Table "BPC" represents the results obtained by BPC exact method. Table "Impact of Unloading Capacity" represents the results obtained by BPC exact method to analyze the impact of unloading capacity C.
 
 Contact Info
+
 Feel free to contact us for more information about our paper via email:
-Nan Huang (nan_huang@hotmail.com),
-Chun Cheng (chun.cheng@polymtl.ca).
+Nan Huang (nan_huang@hotmail.com),
+Chun Cheng (chun.cheng@polymtl.ca).
 
